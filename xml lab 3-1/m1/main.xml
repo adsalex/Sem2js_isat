@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<root>
+<title>Информационные системы и технологии</title>
+<table>
+<heading>
+    <university_name>университет</university_name>
+
+    <min_points_free>проходной балл бюджет</min_points_free>
+    <abiturs_count_free>план набора бюджет</abiturs_count_free>
+
+    <min_points_paid>проходной балл платное</min_points_paid>
+    <abiturs_count_paid>план набора платное</abiturs_count_paid>
+
+    <city>город размещения университета</city>
+    <profile>Направление</profile>
+</heading>
+
+<university>
+    <university_name>БГТУ</university_name>
+    
+    <min_points_free>313</min_points_free>
+    <abiturs_count_free>40</abiturs_count_free>
+
+    <min_points_paid>258</min_points_paid>
+    <abiturs_count_paid>50</abiturs_count_paid>
+
+    <city>Минск</city>
+    <profile>издательско-полиграфический комплекс</profile>
+</university>
+
+<university>
+    <university_name>БГУИР</university_name>
+    
+    <min_points_free>369</min_points_free>
+    <abiturs_count_free>15</abiturs_count_free>
+
+    <min_points_paid>304</min_points_paid>
+    <abiturs_count_paid>90</abiturs_count_paid>
+
+    <city>Минск</city>
+    <profile>игровая индустрия</profile>
+</university>
+
+<university>
+    <university_name>БГУИР</university_name>
+    
+    <min_points_free>367</min_points_free>
+    <abiturs_count_free>15</abiturs_count_free>
+
+    <min_points_paid>300</min_points_paid>
+    <abiturs_count_paid>45</abiturs_count_paid>
+
+    <city>Минск</city>
+    <profile>бизнес-менеджмент</profile>
+</university>
+
+<university>
+    <university_name>БГУИР</university_name>
+    
+    <min_points_free>337</min_points_free>
+    <abiturs_count_free>20</abiturs_count_free>
+
+    <min_points_paid>258</min_points_paid>
+    <abiturs_count_paid>40</abiturs_count_paid>
+
+    <city>Минск</city>
+    <profile> логистика</profile>
+</university>
+
+<university>
+    <university_name>БГУИР</university_name>
+    
+    <min_points_free>337</min_points_free>
+    <abiturs_count_free>20</abiturs_count_free>
+
+    <min_points_paid>281</min_points_paid>
+    <abiturs_count_paid>10</abiturs_count_paid>
+
+    <city>Минск</city>
+    <profile> обеспечение промышленной безопасности</profile>
+</university>
+
+<university>
+    <university_name>БНТУ</university_name>
+    
+    <min_points_free>319</min_points_free>
+    <abiturs_count_free>30</abiturs_count_free>
+
+    <min_points_paid>251</min_points_paid>
+    <abiturs_count_paid>25</abiturs_count_paid>
+
+    <city>Минск</city>
+    <profile> в проектировании и производстве</profile>
+</university>
+
+
+<university>
+    <university_name>БелГУТ</university_name>
+    
+    <min_points_free>252</min_points_free>
+    <abiturs_count_free>22</abiturs_count_free>
+
+    <min_points_paid>205</min_points_paid>
+    <abiturs_count_paid>5</abiturs_count_paid>
+
+    <city>Гомель</city>
+    <profile> в проектировании и производстве</profile>
+</university>
+
+
+
+
+
+
+
+</table>
+
+</root>

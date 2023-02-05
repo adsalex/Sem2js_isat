@@ -1,0 +1,14 @@
+
+table{display: table;margin: auto;margin-top: 20px;width: 97vw;}
+heading{display: table-row;}
+university{display: table-row;}
+
+title{display: flex;font-size: 25px;justify-content: center;}
+
+university_name{display: table-cell;padding: 5px;border: 1px solid black;}
+min_points_free{display: table-cell;padding: 5px;border: 1px solid black;}
+min_points_paid{display: table-cell;padding: 5px;border: 1px solid black;}
+abiturs_count_free{display: table-cell;padding: 5px;border: 1px solid black;}
+abiturs_count_paid{display: table-cell;padding: 5px;border: 1px solid black;}
+city{display: table-cell;padding: 5px;border: 1px solid black;}
+profile{display: table-cell;padding: 5px;border: 1px solid black;}
