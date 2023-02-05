@@ -92,7 +92,46 @@
     <abiturs_count_paid>25</abiturs_count_paid>
 
     <city>Минск</city>
-    <profile> в проектировании и производстве</profile>
+    <profile> проектирование и производство</profile>
+</university>
+
+<university>
+    <university_name>МГЭИ им. А.Д.Сахарова БГУ</university_name>
+    
+    <min_points_free>296</min_points_free>
+    <abiturs_count_free>20</abiturs_count_free>
+
+    <min_points_paid>233</min_points_paid>
+    <abiturs_count_paid>30</abiturs_count_paid>
+
+    <city>Минск</city>
+    <profile> экология/медицина</profile>
+</university>
+
+<university>
+    <university_name>МИТСО</university_name>
+    
+    <min_points_free>нет</min_points_free>
+    <abiturs_count_free>0</abiturs_count_free>
+
+    <min_points_paid>215</min_points_paid>
+    <abiturs_count_paid>50</abiturs_count_paid>
+
+    <city>Минск</city>
+    <profile>экономика</profile>
+</university>
+
+<university>
+    <university_name>БРУ</university_name>
+    
+    <min_points_free>284</min_points_free>
+    <abiturs_count_free>20</abiturs_count_free>
+
+    <min_points_paid>нет</min_points_paid>
+    <abiturs_count_paid>0</abiturs_count_paid>
+
+    <city>Могилёв</city>
+    <profile> проектирование и производство</profile>
 </university>
 
 
@@ -106,14 +145,126 @@
     <abiturs_count_paid>5</abiturs_count_paid>
 
     <city>Гомель</city>
-    <profile> в проектировании и производстве</profile>
+    <profile> проектирование и производство</profile>
 </university>
 
+<university>
+    <university_name>БТЭУ ПК</university_name>
+    
+    <min_points_free>нет</min_points_free>
+    <abiturs_count_free>0</abiturs_count_free>
 
+    <min_points_paid>139</min_points_paid>
+    <abiturs_count_paid>20</abiturs_count_paid>
 
+    <city>Гомель</city>
+    <profile> экономика</profile>
+</university>
 
+<university>
+    <university_name>ВГУ им. П.М. Машерова</university_name>
+    
+    <min_points_free>262</min_points_free>
+    <abiturs_count_free>23</abiturs_count_free>
 
+    <min_points_paid>194</min_points_paid>
+    <abiturs_count_paid>2</abiturs_count_paid>
 
+    <city>Витебск</city>
+    <profile> здравоохранение</profile>
+</university>
+
+<university>
+    <university_name>ВГТУ</university_name>
+    
+    <min_points_free>268</min_points_free>
+    <abiturs_count_free>23</abiturs_count_free>
+
+    <min_points_paid>нет</min_points_paid>
+    <abiturs_count_paid>0</abiturs_count_paid>
+
+    <city>Витебск</city>
+    <profile> бизнес-менеджмент</profile>
+</university>
+
+<university>
+    <university_name>ВГТУ</university_name>
+    
+    <min_points_free>277</min_points_free>
+    <abiturs_count_free>22</abiturs_count_free>
+
+    <min_points_paid>нет</min_points_paid>
+    <abiturs_count_paid>2</abiturs_count_paid>
+
+    <city>Витебск</city>
+    <profile> бизнес-менеджмент</profile>
+</university>
+
+<university>
+    <university_name>ГрГУ им. Янки Купалы</university_name>
+    
+    <min_points_free>286</min_points_free>
+    <abiturs_count_free>12</abiturs_count_free>
+
+    <min_points_paid>нет</min_points_paid>
+    <abiturs_count_paid>11</abiturs_count_paid>
+
+    <city>Гродно</city>
+    <profile> производство</profile>
+</university>
+
+<university>
+    <university_name>ГГТУ им. П. О. Сухого </university_name>
+    
+    <min_points_free>290</min_points_free>
+    <abiturs_count_free>20</abiturs_count_free>
+
+    <min_points_paid>203</min_points_paid>
+    <abiturs_count_paid>22</abiturs_count_paid>
+
+    <city>Гомель</city>
+    <profile> проектирование и производство</profile>
+</university>
+
+<university>
+    <university_name>ГГТУ им. П. О. Сухого
+    </university_name>
+    
+    <min_points_free>318</min_points_free>
+    <abiturs_count_free>13</abiturs_count_free>
+
+    <min_points_paid>232</min_points_paid>
+    <abiturs_count_paid>26</abiturs_count_paid>
+
+    <city>Гомель</city>
+    <profile> игровая индустрия</profile>
+</university>
+
+<university>
+    <university_name>ПГУ им.Е.Полоцкой</university_name>
+    
+    <min_points_free>258</min_points_free>
+    <abiturs_count_free>14</abiturs_count_free>
+
+    <min_points_paid>178</min_points_paid>
+    <abiturs_count_paid>6</abiturs_count_paid>
+
+    <city>Полоцк</city>
+    <profile> экономика</profile>
+</university>
+
+<university>
+    <university_name>БарГУ</university_name>
+    
+    <min_points_free>263</min_points_free>
+    <abiturs_count_free>22</abiturs_count_free>
+
+    <min_points_paid>193</min_points_paid>
+    <abiturs_count_paid>8</abiturs_count_paid>
+
+    <city>Барановичи</city>
+    <profile> проектирование и производство</profile>
+</university>
 
 </table>
 
